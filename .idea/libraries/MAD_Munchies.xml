@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MAD Munchies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MAD Munchies.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
